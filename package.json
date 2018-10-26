@@ -1,0 +1,26 @@
+{
+  "name": "bloqwise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "export": "next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.7",
+    "@fortawesome/free-solid-svg-icons": "^5.4.2",
+    "@fortawesome/react-fontawesome": "^0.1.3",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^6.0.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-reveal": "^1.2.2",
+    "reactstrap": "^6.0.1"
+  }
+}
